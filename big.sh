@@ -10,4 +10,5 @@ then
    echo "$2 is greater then $1 & $3"
 else
    echo "$3 is greater then $1 & $2"
+   12354
 fi
